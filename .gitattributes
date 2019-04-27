@@ -1,0 +1,2 @@
+Simulation_Movies/*/*.mp4 filter=lfs diff=lfs merge=lfs -text
+Simulation_Movies/*/*.ogg filter=lfs diff=lfs merge=lfs -text
